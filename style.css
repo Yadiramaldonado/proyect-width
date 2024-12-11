@@ -1,0 +1,19 @@
+h1{
+    min-width: 300px;
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid darkblue;
+}
+
+.imagen{
+    min-width: 300px;
+    height: auto;
+    max-width: 100%;
+   }     
+.conteiner{
+    width: 50%;
+    border: 1px slateblue;
+    overflow: hidden;
+    
+}
